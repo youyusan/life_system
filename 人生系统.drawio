@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T11:26:38.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LgmkKLhlV28N34qxsjFW" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T12:48:35.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FIEX3sWZp_LnxDOKNU2c" version="23.1.5" type="github">
   <diagram name="第 1 页" id="-LowXklH0KBSZvzuVanQ">
-    <mxGraphModel dx="794" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,45 @@
         </mxCell>
         <mxCell id="34R1PCEf4p_CkUcv6t2P-25" value="写作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="564.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="34R1PCEf4p_CkUcv6t2P-29" target="34R1PCEf4p_CkUcv6t2P-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="34R1PCEf4p_CkUcv6t2P-29" target="34R1PCEf4p_CkUcv6t2P-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="34R1PCEf4p_CkUcv6t2P-29" target="34R1PCEf4p_CkUcv6t2P-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-29" value="自知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="34R1PCEf4p_CkUcv6t2P-30" target="34R1PCEf4p_CkUcv6t2P-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-30" value="可做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="34R1PCEf4p_CkUcv6t2P-31" target="34R1PCEf4p_CkUcv6t2P-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-31" value="能做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="34R1PCEf4p_CkUcv6t2P-32" target="34R1PCEf4p_CkUcv6t2P-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-32" value="想做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-36" value="愿景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-37" value="天赋" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34R1PCEf4p_CkUcv6t2P-38" value="信念" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
