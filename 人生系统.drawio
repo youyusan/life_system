@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T03:13:39.257Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_0yxZXTud_jaEXwqYRPv" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T03:19:06.586Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PYMz2MLdglmPrS38wRX6" version="24.2.2" type="github">
   <diagram name="第 1 页" id="-LowXklH0KBSZvzuVanQ">
-    <mxGraphModel dx="1293" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,8 +121,17 @@
         <mxCell id="34R1PCEf4p_CkUcv6t2P-38" value="信念" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="440" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tB7VLj_1fxb0ntuLeQnr-1" target="tB7VLj_1fxb0ntuLeQnr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tB7VLj_1fxb0ntuLeQnr-1" value="成为更好的&lt;br&gt;自己" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tB7VLj_1fxb0ntuLeQnr-2" target="tB7VLj_1fxb0ntuLeQnr-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tB7VLj_1fxb0ntuLeQnr-2" target="tB7VLj_1fxb0ntuLeQnr-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tB7VLj_1fxb0ntuLeQnr-2" value="更好的成为&lt;br&gt;自己" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="-520" width="80" height="40" as="geometry" />
@@ -270,6 +279,48 @@
         </mxCell>
         <mxCell id="tB7VLj_1fxb0ntuLeQnr-44" value="糖分热量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="-480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tB7VLj_1fxb0ntuLeQnr-54" target="tB7VLj_1fxb0ntuLeQnr-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tB7VLj_1fxb0ntuLeQnr-54" target="tB7VLj_1fxb0ntuLeQnr-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tB7VLj_1fxb0ntuLeQnr-54" target="tB7VLj_1fxb0ntuLeQnr-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-54" value="自我探索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-55" value="自我实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tB7VLj_1fxb0ntuLeQnr-58" target="tB7VLj_1fxb0ntuLeQnr-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-58" value="愿景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tB7VLj_1fxb0ntuLeQnr-59" target="tB7VLj_1fxb0ntuLeQnr-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-59" value="天赋" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tB7VLj_1fxb0ntuLeQnr-60" target="tB7VLj_1fxb0ntuLeQnr-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-60" value="信念" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-64" value="想做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="-720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-65" value="能做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="-640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tB7VLj_1fxb0ntuLeQnr-66" value="可做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200.5" y="-560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
