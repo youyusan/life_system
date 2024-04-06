@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T08:53:25.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="G0WmTHYTeu3VjefSbr90" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T08:53:35.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8JnYYWYkI6xXy_1T6-fD" version="24.2.2" type="github">
   <diagram name="第 1 页" id="-LowXklH0KBSZvzuVanQ">
     <mxGraphModel dx="1293" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,7 +369,7 @@
         <mxCell id="tB7VLj_1fxb0ntuLeQnr-78" value="构建系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1201" y="-320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HAOmo5m4X4N3UOVxJmDS-1" value="矛盾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HAOmo5m4X4N3UOVxJmDS-1" value="矛盾&amp;amp;内耗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
