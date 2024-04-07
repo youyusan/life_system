@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T10:52:20.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JP9Fu78s7UGjpDWDU2Wh" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T12:06:23.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QQvEkzPHK5jbzDMkOcOW" version="24.2.2" type="github">
   <diagram name="第 1 页" id="-LowXklH0KBSZvzuVanQ">
     <mxGraphModel dx="1293" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,10 +305,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HAOmo5m4X4N3UOVxJmDS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAOmo5m4X4N3UOVxJmDS-8" target="HAOmo5m4X4N3UOVxJmDS-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HAOmo5m4X4N3UOVxJmDS-8" value="定位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HAOmo5m4X4N3UOVxJmDS-10" value="运营" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HAOmo5m4X4N3UOVxJmDS-10" value="流量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HAOmo5m4X4N3UOVxJmDS-11" value="销售" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -335,6 +338,9 @@
         </mxCell>
         <mxCell id="HAOmo5m4X4N3UOVxJmDS-15" value="政治" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240.5" y="-120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HAOmo5m4X4N3UOVxJmDS-25" value="需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
