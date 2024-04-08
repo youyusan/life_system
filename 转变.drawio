@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T08:46:13.149Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KPiI7l-OPOKonAzSIKrA" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T08:50:03.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6laBTs4wZ1JYfygLMHQy" version="24.2.2" type="github">
   <diagram name="第 1 页" id="hnyhINtM0eCyKPwDplMp">
-    <mxGraphModel dx="9" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="307" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-ldiU_Q2niAUXrp3zha3-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-840" width="640" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="-ldiU_Q2niAUXrp3zha3-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1720" y="-1160" width="560" height="640" as="geometry" />
         </mxCell>
@@ -105,11 +108,11 @@
         <mxCell id="-ldiU_Q2niAUXrp3zha3-36" value="职业规划" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1199" y="-1120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-ldiU_Q2niAUXrp3zha3-40" value="教育-职场体系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="950" y="-1140" width="100" height="30" as="geometry" />
+        <mxCell id="-ldiU_Q2niAUXrp3zha3-40" value="教育体系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="930" y="-1140" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-ldiU_Q2niAUXrp3zha3-41" value="市场经济体系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="949" y="-464" width="100" height="30" as="geometry" />
+        <mxCell id="-ldiU_Q2niAUXrp3zha3-41" value="市场经济" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="930" y="-460" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ldiU_Q2niAUXrp3zha3-42" value="物品/服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1940" y="-910" width="80" height="60" as="geometry" />
@@ -170,6 +173,9 @@
         </mxCell>
         <mxCell id="-ldiU_Q2niAUXrp3zha3-66" value="岗位A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1360" y="-800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-ldiU_Q2niAUXrp3zha3-79" value="人才市场" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="930" y="-830" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
