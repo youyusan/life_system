@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T02:16:50.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XW6tOPzvZSW_8YyhYqPo" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T02:17:56.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ttRxNtGcK9Jl1K1LXhLQ" version="24.2.5" type="github">
   <diagram name="第 1 页" id="-LowXklH0KBSZvzuVanQ">
     <mxGraphModel dx="1323" dy="2151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,6 +271,15 @@
         </mxCell>
         <mxCell id="w1q24iZh5yq6yeS4lfcn-13" value="处世原则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1201" y="-640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w1q24iZh5yq6yeS4lfcn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w1q24iZh5yq6yeS4lfcn-17" target="tB7VLj_1fxb0ntuLeQnr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1q24iZh5yq6yeS4lfcn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w1q24iZh5yq6yeS4lfcn-17" target="tB7VLj_1fxb0ntuLeQnr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1q24iZh5yq6yeS4lfcn-17" value="人生重启计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-630" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
