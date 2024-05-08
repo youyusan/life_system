@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T12:19:21.447Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4_MOSXWqBBOCfsklUL0O" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T04:31:16.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="IenIiukFFvNUETISlnIf" version="24.3.1" type="github">
   <diagram name="第 1 页" id="70hj8v1VQVyg1i2EYkiq">
-    <mxGraphModel dx="307" dy="2931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="761" dy="3168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,10 +46,10 @@
         <mxCell id="Ae3k2lJZZivfqUR8qfep-12" value="积极创造" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;flipV=0;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="1550" y="-2025" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ae3k2lJZZivfqUR8qfep-13" value="自我掌控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="1">
+        <mxCell id="Ae3k2lJZZivfqUR8qfep-13" value="自我实现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=1;fontColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="1790" y="-1864" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ae3k2lJZZivfqUR8qfep-14" value="自我探索" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Ae3k2lJZZivfqUR8qfep-14" value="自我觉察" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1369" y="-2230" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
