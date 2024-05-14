@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T08:27:57.128Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="OznNePUIMGL6ENgv41hS" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T15:04:47.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jZhb27cmYT5n5miw_IoI" version="24.4.0" type="github">
   <diagram name="第 1 页" id="0kq8UOiedJtzS0gR8iW6">
-    <mxGraphModel dx="1222" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,10 +136,10 @@
         <mxCell id="VAt3fNBsJgaOTjMqSgV4-40" value="反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VAt3fNBsJgaOTjMqSgV4-41" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;颓废圈&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="VAt3fNBsJgaOTjMqSgV4-41" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;消磨圈&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="300" y="164" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VAt3fNBsJgaOTjMqSgV4-43" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;事业圈&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="VAt3fNBsJgaOTjMqSgV4-43" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;探索圈&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="860" y="164" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VAt3fNBsJgaOTjMqSgV4-44" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;自我设计&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
