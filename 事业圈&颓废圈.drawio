@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T04:21:12.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ZBZufBDJGUkvlFlYhvil" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T04:28:33.797Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RyGs9zf4IDrDxhWELLQd" version="24.4.0" type="github">
   <diagram name="第 1 页" id="0kq8UOiedJtzS0gR8iW6">
-    <mxGraphModel dx="794" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="662" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,19 +111,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VAt3fNBsJgaOTjMqSgV4-34" value="转化为动力和激情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VAt3fNBsJgaOTjMqSgV4-34" value="原则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VAt3fNBsJgaOTjMqSgV4-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VAt3fNBsJgaOTjMqSgV4-36" target="VAt3fNBsJgaOTjMqSgV4-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VAt3fNBsJgaOTjMqSgV4-36" value="找到发挥才能的兴趣" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VAt3fNBsJgaOTjMqSgV4-36" value="事业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VAt3fNBsJgaOTjMqSgV4-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VAt3fNBsJgaOTjMqSgV4-38" target="VAt3fNBsJgaOTjMqSgV4-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VAt3fNBsJgaOTjMqSgV4-38" value="挑战更高的目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VAt3fNBsJgaOTjMqSgV4-38" value="行动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VAt3fNBsJgaOTjMqSgV4-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="VAt3fNBsJgaOTjMqSgV4-40" target="VAt3fNBsJgaOTjMqSgV4-30">
@@ -133,7 +133,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VAt3fNBsJgaOTjMqSgV4-40" value="影响帮助其他人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VAt3fNBsJgaOTjMqSgV4-40" value="反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
