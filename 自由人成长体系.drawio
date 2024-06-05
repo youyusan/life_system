@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T08:36:19.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="WGw7Go9qogOPh5Zi--gF" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T08:46:34.869Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="o8LqoKWFdD0sz-PzBH0O" version="24.4.13" type="github">
   <diagram name="第 1 页" id="ZPvPkC5raG9nMZ6jffo0">
     <mxGraphModel dx="993" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,6 +108,24 @@
         </mxCell>
         <mxCell id="UsBETUkJH2-_tGAedoQZ-27" value="高效合作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="544" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsBETUkJH2-_tGAedoQZ-29" value="寻找机缘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsBETUkJH2-_tGAedoQZ-31" value="察觉灵根" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="264.53" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsBETUkJH2-_tGAedoQZ-32" value="修炼功法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="304" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsBETUkJH2-_tGAedoQZ-33" value="修仙规则" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="343" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsBETUkJH2-_tGAedoQZ-34" value="本命法宝" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="383" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsBETUkJH2-_tGAedoQZ-35" value="财侣法地" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="424" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
