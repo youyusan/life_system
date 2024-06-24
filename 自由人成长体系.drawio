@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T07:11:01.601Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="dP44mHzFBCdzgJzzNiJi" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T03:20:56.435Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HyZsLIWPJ3oh8aNLSJd_" version="24.6.2" type="github">
   <diagram name="第 1 页" id="ZPvPkC5raG9nMZ6jffo0">
-    <mxGraphModel dx="1134" dy="593" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="415" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="UsBETUkJH2-_tGAedoQZ-7" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;rotation=90;flipV=1;flipH=1;shadow=0;gradientColor=none;strokeColor=#FFD460;" parent="1" vertex="1">
           <mxGeometry x="705" y="55.16" width="29.69" height="239.37" as="geometry" />
         </mxCell>
-        <mxCell id="UsBETUkJH2-_tGAedoQZ-8" value="自由人阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#F07B3F;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="UsBETUkJH2-_tGAedoQZ-8" value="自由探索阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#F07B3F;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="199.68" y="120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UsBETUkJH2-_tGAedoQZ-9" value="超级个体阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#F07B3F;strokeColor=none;" parent="1" vertex="1">
@@ -136,13 +136,13 @@
         <mxCell id="UsBETUkJH2-_tGAedoQZ-38" value="唯我独尊" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ea5455;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="910" y="544" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uugUhVgFxe9sDleiOFaZ-1" value="修仙体系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Verdana;fontColor=#ea5455;" vertex="1" parent="1">
+        <mxCell id="uugUhVgFxe9sDleiOFaZ-1" value="修仙体系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Verdana;fontColor=#ea5455;" parent="1" vertex="1">
           <mxGeometry x="899.9999999999999" y="25.159999999999997" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uugUhVgFxe9sDleiOFaZ-2" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;rotation=90;flipV=1;flipH=1;shadow=0;gradientColor=none;strokeColor=#FFD460;" vertex="1" parent="1">
+        <mxCell id="uugUhVgFxe9sDleiOFaZ-2" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;rotation=90;flipV=1;flipH=1;shadow=0;gradientColor=none;strokeColor=#FFD460;" parent="1" vertex="1">
           <mxGeometry x="465.04" y="-253.12" width="29.69" height="706.75" as="geometry" />
         </mxCell>
-        <mxCell id="uugUhVgFxe9sDleiOFaZ-3" value="自由人成长体系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Verdana;fontColor=#F07B3F;" vertex="1" parent="1">
+        <mxCell id="uugUhVgFxe9sDleiOFaZ-3" value="自由人成长体系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontFamily=Verdana;fontColor=#F07B3F;" parent="1" vertex="1">
           <mxGeometry x="422.38" y="25.16" width="114.92" height="30" as="geometry" />
         </mxCell>
       </root>
