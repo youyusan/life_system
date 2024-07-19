@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T12:37:25.437Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="A7RVueLhUfxBlnz03Aqs" version="24.6.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-19T12:38:08.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WjlpdoAB6rOcy1jOadN8" version="24.6.5" type="github" pages="6">
   <diagram name="第 1 页" id="-LowXklH0KBSZvzuVanQ">
     <mxGraphModel dx="1985" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -513,7 +513,7 @@
         <mxCell id="GKiX3ysqzX1dpp-tkBss-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="268" y="100" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GKiX3ysqzX1dpp-tkBss-35" value="平衡轮" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="GKiX3ysqzX1dpp-tkBss-35" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;平衡轮&lt;/span&gt;" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="328" y="100" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GKiX3ysqzX1dpp-tkBss-36" value="个人&lt;br&gt;幸福" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;" vertex="1" parent="1">
