@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T02:54:25.110Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="c6JKdvngS8T3a_PZ7Nmn" version="24.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-23T02:55:43.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gtkj48qq2HI1tnbc0ZMu" version="24.7.1" type="github" pages="6">
   <diagram name="概念图1.0" id="-LowXklH0KBSZvzuVanQ">
     <mxGraphModel dx="1323" dy="2012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -688,7 +688,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rTk9Q6nQgl0u6KHBKmRI" name="愿景">
-    <mxGraphModel dx="3242" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2788" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -727,8 +727,8 @@
         </mxCell>
         <mxCell id="lzanQlzZcSqpIDh_Cfq6-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 1;strokeWidth=2;rounded=0;strokeColor=#03A9F4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-490" y="810" as="sourcePoint" />
-            <mxPoint x="-490" y="280" as="targetPoint" />
+            <mxPoint x="-480" y="810" as="sourcePoint" />
+            <mxPoint x="-480" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lzanQlzZcSqpIDh_Cfq6-9" value="Why" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
@@ -760,8 +760,8 @@
         </mxCell>
         <mxCell id="lzanQlzZcSqpIDh_Cfq6-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 1;strokeWidth=2;rounded=0;strokeColor=#03A9F4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="800" as="sourcePoint" />
-            <mxPoint x="30" y="280" as="targetPoint" />
+            <mxPoint x="40" y="800" as="sourcePoint" />
+            <mxPoint x="40" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lzanQlzZcSqpIDh_Cfq6-26" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lzanQlzZcSqpIDh_Cfq6-23" target="lzanQlzZcSqpIDh_Cfq6-25">
