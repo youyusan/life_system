@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T02:57:08.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="C7bUQL8W8hdKoj8N6xZQ" version="24.7.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-24T08:49:04.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="w2j1RR5FWRCcDSyaUR_9" version="24.7.1" type="github" pages="7">
   <diagram name="概念图1.0" id="-LowXklH0KBSZvzuVanQ">
     <mxGraphModel dx="1323" dy="2012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -688,7 +688,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XMHdrPFrBF7fJREMlKn-" name="重启人生">
-    <mxGraphModel dx="2876" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2490" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -751,11 +751,14 @@
             <mxPoint x="40" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gwzfPRhPCC67K8QiYKvr-1" value="迄今为止的生活" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=16;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="rTk9Q6nQgl0u6KHBKmRI" name="愿景">
-    <mxGraphModel dx="2788" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
