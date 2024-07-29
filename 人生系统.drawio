@@ -719,7 +719,7 @@
         <mxCell id="BDephot_YWtqc4THwZK_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-13" target="BDephot_YWtqc4THwZK_-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BDephot_YWtqc4THwZK_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-13" target="BDephot_YWtqc4THwZK_-14">
+        <mxCell id="BDephot_YWtqc4THwZK_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-13" target="BDephot_YWtqc4THwZK_-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BDephot_YWtqc4THwZK_-13" value="成果清单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -791,7 +791,7 @@
         <mxCell id="BDephot_YWtqc4THwZK_-28" value="中期目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1040" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BDephot_YWtqc4THwZK_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-32" target="BDephot_YWtqc4THwZK_-13">
+        <mxCell id="BDephot_YWtqc4THwZK_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-32" target="BDephot_YWtqc4THwZK_-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BDephot_YWtqc4THwZK_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-32" target="BDephot_YWtqc4THwZK_-19">
