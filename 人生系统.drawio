@@ -661,7 +661,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eT-R86Fac_qV9_8JXp0p" name="第 4 页">
-    <mxGraphModel dx="1621" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1761" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -710,20 +710,11 @@
         <mxCell id="BDephot_YWtqc4THwZK_-11" value="原则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BDephot_YWtqc4THwZK_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-12" target="BDephot_YWtqc4THwZK_-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BDephot_YWtqc4THwZK_-12" value="积极日记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BDephot_YWtqc4THwZK_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-13" target="BDephot_YWtqc4THwZK_-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BDephot_YWtqc4THwZK_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-13" target="BDephot_YWtqc4THwZK_-14">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BDephot_YWtqc4THwZK_-13" value="成果清单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BDephot_YWtqc4THwZK_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-14" target="BDephot_YWtqc4THwZK_-26">
           <mxGeometry relative="1" as="geometry" />
@@ -758,14 +749,11 @@
         <mxCell id="BDephot_YWtqc4THwZK_-20" value="愿景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BDephot_YWtqc4THwZK_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-21" target="BDephot_YWtqc4THwZK_-14">
+        <mxCell id="BDephot_YWtqc4THwZK_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-13" target="BDephot_YWtqc4THwZK_-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BDephot_YWtqc4THwZK_-21" value="感恩日记" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1280" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BDephot_YWtqc4THwZK_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-22" target="BDephot_YWtqc4THwZK_-18">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BDephot_YWtqc4THwZK_-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-22" target="BDephot_YWtqc4THwZK_-28">
           <mxGeometry relative="1" as="geometry" />
@@ -792,7 +780,12 @@
           <mxGeometry x="600" y="1040" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BDephot_YWtqc4THwZK_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-32" target="BDephot_YWtqc4THwZK_-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="1060" />
+              <mxPoint x="240" y="1300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BDephot_YWtqc4THwZK_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-32" target="BDephot_YWtqc4THwZK_-19">
           <mxGeometry relative="1" as="geometry" />
@@ -802,6 +795,29 @@
         </mxCell>
         <mxCell id="BDephot_YWtqc4THwZK_-48" value="情绪评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BDephot_YWtqc4THwZK_-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-21" target="BDephot_YWtqc4THwZK_-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1300" as="sourcePoint" />
+            <mxPoint x="440" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDephot_YWtqc4THwZK_-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-13" target="BDephot_YWtqc4THwZK_-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1300" />
+              <mxPoint x="260" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDephot_YWtqc4THwZK_-13" value="成果清单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BDephot_YWtqc4THwZK_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BDephot_YWtqc4THwZK_-52" target="BDephot_YWtqc4THwZK_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BDephot_YWtqc4THwZK_-52" value="工作总结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
