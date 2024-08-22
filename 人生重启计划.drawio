@@ -873,7 +873,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aJHxKkMtOlHBZD9gWkUz" name="模型图">
-    <mxGraphModel dx="1444" dy="4349" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#EBEBEB" math="0" shadow="0">
+    <mxGraphModel dx="2269" dy="4777" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#EBEBEB" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1397,6 +1397,12 @@
         </mxCell>
         <mxCell id="XI0pFq0ZJzRkr6jkszAM-43" value="真实世界" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="680" y="-2680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XI0pFq0ZJzRkr6jkszAM-73" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1365" width="600" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="XI0pFq0ZJzRkr6jkszAM-76" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1365" width="600" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
