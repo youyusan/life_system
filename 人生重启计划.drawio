@@ -988,7 +988,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aJHxKkMtOlHBZD9gWkUz" name="模型图">
-    <mxGraphModel dx="1134" dy="4189" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#EBEBEB" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="4287" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#EBEBEB" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1693,6 +1693,53 @@
         </mxCell>
         <mxCell id="qSWlBoDvPcSNqrpwrh2j-73" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;结果高于期望时，分泌更多多巴胺；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;结果低于期望时，分泌更少多巴胺；&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;结果与期望一致时，会慢慢提高多巴胺阈值。&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1810" y="-2780" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FqzF9-WF-L5RkTT2JIYE-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1929" y="268" as="sourcePoint" />
+            <mxPoint x="2365" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqzF9-WF-L5RkTT2JIYE-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1929" y="268" as="sourcePoint" />
+            <mxPoint x="1929" y="7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqzF9-WF-L5RkTT2JIYE-3" value="时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2362" y="250" width="54" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="FqzF9-WF-L5RkTT2JIYE-4" value="结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1905" y="-30" width="54" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="FqzF9-WF-L5RkTT2JIYE-9" value="每天进步 1%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2350" y="7" width="121" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="FqzF9-WF-L5RkTT2JIYE-10" value="每天退步 1%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2358" y="302" width="121" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="FqzF9-WF-L5RkTT2JIYE-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1928" y="267" as="sourcePoint" />
+            <mxPoint x="2345" y="52" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1978" y="267" />
+              <mxPoint x="2281" y="213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqzF9-WF-L5RkTT2JIYE-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1928" y="268" as="sourcePoint" />
+            <mxPoint x="2351" y="299" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1978" y="268" />
+              <mxPoint x="2205" y="284" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqzF9-WF-L5RkTT2JIYE-17" value="1年中每天退步 1%: 0.99^365 ≈ 0.03&#xa;1年中每天进步 1%: 1.01^365 ≈ 37.78" style="text;whiteSpace=wrap;fontStyle=1;horizontal=1;fontSize=16;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="2084" y="-147" width="306" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
