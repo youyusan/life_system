@@ -592,7 +592,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MhzxZoeAxIGFdm0Rk05Q-29" value="N：1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;labelBackgroundColor=#EBEBEB;" vertex="1" connectable="0" parent="MhzxZoeAxIGFdm0Rk05Q-24">
+        <mxCell id="MhzxZoeAxIGFdm0Rk05Q-29" value="1:1 或者 N：1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;labelBackgroundColor=#EBEBEB;" vertex="1" connectable="0" parent="MhzxZoeAxIGFdm0Rk05Q-24">
           <mxGeometry x="0.4455" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
