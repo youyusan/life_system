@@ -79,15 +79,6 @@
         <mxCell id="H55pQzMAIsQwWW3oVqWX-18" value="情感语录分享" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="440" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H55pQzMAIsQwWW3oVqWX-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-19" target="H55pQzMAIsQwWW3oVqWX-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H55pQzMAIsQwWW3oVqWX-60" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-19" target="H55pQzMAIsQwWW3oVqWX-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H55pQzMAIsQwWW3oVqWX-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-19" target="H55pQzMAIsQwWW3oVqWX-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="H55pQzMAIsQwWW3oVqWX-19" value="咨询师/教练 IP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-880" y="400" width="160" height="40" as="geometry" />
         </mxCell>
@@ -103,14 +94,8 @@
         <mxCell id="H55pQzMAIsQwWW3oVqWX-25" value="思维模型" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="640" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H55pQzMAIsQwWW3oVqWX-67" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-26" target="H55pQzMAIsQwWW3oVqWX-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="H55pQzMAIsQwWW3oVqWX-26" value="女性成长 IP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-880" y="560" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H55pQzMAIsQwWW3oVqWX-66" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-27" target="H55pQzMAIsQwWW3oVqWX-51">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H55pQzMAIsQwWW3oVqWX-27" value="超级个体 IP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-880" y="640" width="160" height="40" as="geometry" />
@@ -120,15 +105,6 @@
         </mxCell>
         <mxCell id="H55pQzMAIsQwWW3oVqWX-33" value="AI+领域知识" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="760" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H55pQzMAIsQwWW3oVqWX-63" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-36" target="H55pQzMAIsQwWW3oVqWX-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H55pQzMAIsQwWW3oVqWX-64" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-36" target="H55pQzMAIsQwWW3oVqWX-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H55pQzMAIsQwWW3oVqWX-65" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-36" target="H55pQzMAIsQwWW3oVqWX-55">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H55pQzMAIsQwWW3oVqWX-36" value="AI 自媒体/写作变现" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-880" y="760" width="160" height="40" as="geometry" />
@@ -201,6 +177,33 @@
         </mxCell>
         <mxCell id="H55pQzMAIsQwWW3oVqWX-55" value="知识 IP 打造" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-40" y="840" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-80" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-74" target="H55pQzMAIsQwWW3oVqWX-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-81" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-74" target="H55pQzMAIsQwWW3oVqWX-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-82" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-74" target="H55pQzMAIsQwWW3oVqWX-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-83" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-74" target="H55pQzMAIsQwWW3oVqWX-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-74" value="平台" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="1080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-75" value="小红书" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-76" value="公众号" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-77" value="知识付费平台" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-78" value="网站" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="960" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
