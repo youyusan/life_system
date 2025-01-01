@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="UwPCsk7tcZKnBwsrufCo">
-    <mxGraphModel dx="2490" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2588" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,16 @@
         <mxCell id="H55pQzMAIsQwWW3oVqWX-40" value="阅读计划" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="600" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H55pQzMAIsQwWW3oVqWX-41" value="知识管理" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-56" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-41" target="H55pQzMAIsQwWW3oVqWX-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-57" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-41" target="H55pQzMAIsQwWW3oVqWX-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-58" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="H55pQzMAIsQwWW3oVqWX-41" target="H55pQzMAIsQwWW3oVqWX-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-41" value="知识 IP" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H55pQzMAIsQwWW3oVqWX-45" value="42 天陪跑营" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
@@ -151,8 +160,17 @@
         <mxCell id="H55pQzMAIsQwWW3oVqWX-47" value="&amp;nbsp;7 天重启人生训练营" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-40" y="440" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H55pQzMAIsQwWW3oVqWX-51" value="阅读计划" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-51" value="领域资料汇总" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="-40" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-53" value="&amp;nbsp;AI 写作变现" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="760" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-54" value="知识管理课程" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H55pQzMAIsQwWW3oVqWX-55" value="知识 IP 打造" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="840" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
